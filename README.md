@@ -1,7 +1,7 @@
 ## 👋 ¡Hola! Soy Carlos
 
 ### 📚Sobre mí
-Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma, siempre buscando aprender y mejorar mis habilidades. Aunque mi enfoque actual está en la programación y el desarrollo de aplicaciones, también he trabajado en otros ámbitos, lo que me ha permitido desarrollar habilidades valiosas como la resolución de problemas, el trabajo en equipo y la adaptabilidad.
+Siempre buscando aprender y mejorar mis habilidades. Aunque mi enfoque actual está en la programación y el desarrollo de aplicaciones, también he trabajado en otros ámbitos, lo que me ha permitido desarrollar habilidades valiosas como la resolución de problemas, el trabajo en equipo y la adaptabilidad.
 
 Mi objetivo es convertirme en un desarrollador competente que cree soluciones innovadoras y funcionales para problemas del mundo real.
 
