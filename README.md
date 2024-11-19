@@ -10,6 +10,7 @@ Actualmente, estoy trabajando principalmente con **Java**, **Kotlin** y **SQL** 
 
 ### 🛠️Tecnologías y habilidades
 - **Lenguajes**: Java, Kotlin, SQL
+- **Frameworks**: Hibernate
 - **Desarrollo Android**: Jetpack Compose, Firebase
 - **Frontend**: HTML, CSS
 - **Bases de Datos**: MySQL
