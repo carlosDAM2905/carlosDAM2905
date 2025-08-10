@@ -1,38 +1,55 @@
 ## 👋 ¡Hola! Soy Carlos
 
-### 📚Sobre mí
-Siempre buscando aprender y mejorar mis habilidades. Aunque mi enfoque actual está en la programación y el desarrollo de aplicaciones, también he trabajado en otros ámbitos, lo que me ha permitido desarrollar habilidades valiosas como la resolución de problemas, el trabajo en equipo y la adaptabilidad.
+### 📚 Sobre mí
+Soy un profesional en constante aprendizaje con formación en **CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM)** y experiencia reciente en programación y desarrollo de aplicaciones.  
+Aunque mi experiencia más reciente está en la programación y el desarrollo de aplicaciones, mi trayectoria previa en sectores como logística y producción industrial me ha aportado competencias clave como la resolución de problemas, el trabajo en equipo y la adaptabilidad, así como experiencia trabajando bajo metodologías de mejora continua (World Class Manufacturing – Kaizen).
 
-Mi objetivo es convertirme en un desarrollador competente que cree soluciones innovadoras y funcionales para problemas del mundo real.
+Mi objetivo es convertirme en un profesional versátil capaz de crear soluciones innovadoras y funcionales para problemas reales.
 
-### Tecnologías y habiliades
-Actualmente, estoy trabajando principalmente con **Java**, **Kotlin** y **SQL** en el desarrollo de aplicaciones Android y multiplataforma. También estoy explorando herramientas como **Firebase** y **Jetpack Compose** para enriquecer mis proyectos y crear experiencias más dinámicas y conectadas.
+---
 
-### 🛠️Tecnologías y habilidades
-- **Lenguajes**: Java, Kotlin, SQL
-- **Frameworks**: Hibernate
-- **Desarrollo Android**: Jetpack Compose, Firebase
-- **Frontend**: HTML, CSS
-- **Bases de Datos**: MySQL
+### 🛠️ Tecnologías y habilidades
+Actualmente trabajo principalmente con **Java**, **Kotlin** y **SQL** en el desarrollo de aplicaciones Android y multiplataforma, utilizando **Jetpack Compose** y **Room** para interfaces modernas y persistencia local.  
 
-### 🔍Ejercicios y Aprendizajes Destacados
+También estoy explorando tecnologías como **Spring Boot**, **Python** y **AWS** (S3, Lambda, DynamoDB, API Gateway, EC2, VPC entre otros) para ampliar mis capacidades en integración backend y servicios en la nube.
+
+- **Lenguajes:** Java, Kotlin, SQL, Python  
+- **Frameworks / Librerías:** Hibernate, Spring Boot, Jetpack Compose, Material 3  
+- **Bases de Datos:** MySQL, Room, DynamoDB, MongoDB  
+- **Servicios en la nube:** AWS (S3, Lambda, DynamoDB – en aprendizaje), Firebase  
+- **Frontend:** HTML, CSS  
+- **Otros:** Git, GitHub, patrones DAO y MVC
+
+Busco integrarme en un equipo de trabajo en el sector tecnológico, donde pueda aportar mis conocimientos, aprender de otros y contribuir a proyectos que generen un impacto positivo.
+
+
+
+### 🔍Proyectos y trabajos destacados
 A continuación, algunos proyectos y ejercicios que reflejan mis habilidades y conocimientos en diferentes áreas:
 
-- 📂 🚧 **EN CONSTRUCCIÓN** 🚧 [**Control de Almacén**](https://github.com/carlosDAM2905/control-almacen.git): Un sistema diseñado para la gestión de productos, movimientos de inventario y empleados en un almacén, desarrollado en Java y MySQL. Este proyecto utiliza Hibernate como herramienta ORM (Object-Relational Mapping) para simplificar las operaciones de acceso a datos, implementando funcionalidades completas como el CRUD de productos, proveedores y movimientos de inventario, así como consultas avanzadas sobre el estado del almacén. Utiliza el patrón de diseño DAO para garantizar escalabilidad y mantenibilidad. 
-  
+### 🚀 Proyecto principal
+- 🎸 [**AppGuitarra**](https://github.com/carlosDAM2905/AppGuitarra.git)  
+  Aplicación educativa Android desarrollada con **Kotlin**, **Jetpack Compose** y **Room**, que combina lecciones teóricas, actividades interactivas y un sistema de progreso local.  
+  *Destaca en:* desarrollo Android moderno, gestión de estado, persistencia de datos y diseño de interfaces atractivas.
 
-- 📂 [**Coffee Machine Simulator**](https://github.com/carlosDAM2905/CoffeeMachine.git): Una simulación de una máquina de café que permite al usuario realizar acciones como comprar café, rellenar ingredientes, consultar el estado de la máquina y tomar el efectivo acumulado. Este proyecto fue realizado en **Java** y demuestra el uso de programación orientada a objetos, control de flujo y encapsulamiento.
+---
 
-- 📂 [**Inventario de Productos**](https://github.com/carlosDAM2905/gestion-almacen.git): Un sistema de gestión de inventario de productos y empleados en un almacén, desarrollado en Java y MySQL. Este proyecto implementa el patrón DAO (Data Access Object) para organizar las operaciones de acceso a datos, como CRUD de productos y empleados, así como consultas avanzadas sobre el inventario. También se integran procedimientos almacenados, vistas y triggers en la base de datos para automatizar la gestión de almacenes. Este proyecto demuestra habilidades en:
-- Conexión a bases de datos con JDBC.
-- Programación Orientada a Objetos: uso de clases como Empleado, Producto y Almacen.
-- Patrones de diseño: DAO para separación de lógica y manejo de datos.
-- SQL avanzado: incluye triggers, procedimientos almacenados y vistas.
+### 🛠️ Proyecto en desarrollo
+- 🏭 🚧 **Control de Almacén** 🚧 (En construcción, con el objetivo de rehacerlo con AWS para practicar servicios como S3, DynamoDB, Lambda y API Gateway)  
+  Sistema para la gestión de productos, movimientos de inventario y empleados, desarrollado en **Java** + **MySQL** con **Hibernate** y patrón **DAO**.  
+   *Objetivo al retomarlo:* implementar backend en la nube con **AWS** y ampliar funcionalidades.
 
- 
+---
+
+### 📚 Pequeños desarrollos en Java (aplicaciones de consola)
+- ☕ [**Coffee Machine Simulator**](https://github.com/carlosDAM2905/CoffeeMachine.git) – Simulación de máquina de café en Java que muestra control de flujo, POO y encapsulación.  
+- 📦 [**Inventario de Productos**](https://github.com/carlosDAM2905/gestion-almacen.git) – CRUD de inventario con JDBC, patrones DAO y SQL avanzado.
+
+---
+
 
 ### 🔗Conéctate conmigo
-- [LinkedIn](https://www.linkedin.com/in/carlos-gómez-sánchez-44166132a): Sistema de gestión de almacenes desarrollado en Java, utilizando Hibernate como framework ORM y MySQL como base de datos. Este proyecto permite administrar empleados, productos y ubicaciones, además de realizar consultas sobre el inventario.
+- [LinkedIn](https://www.linkedin.com/in/carlos-gómez-sánchez-44166132a)
 
 
   
