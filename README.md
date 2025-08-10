@@ -16,7 +16,7 @@ También estoy explorando tecnologías como **Spring Boot**, **Python** y **AWS*
 - **Lenguajes:** Java, Kotlin, SQL, Python  
 - **Frameworks / Librerías:** Hibernate, Spring Boot, Jetpack Compose, Material 3  
 - **Bases de Datos:** MySQL, Room, DynamoDB, MongoDB  
-- **Servicios en la nube:** AWS (S3, Lambda, DynamoDB – en aprendizaje), Firebase  
+- **Servicios en la nube:** AWS (S3, Lambda, DynamoDB – en aprendizaje)
 - **Frontend:** HTML, CSS  
 - **Otros:** Git, GitHub, patrones DAO y MVC
 
