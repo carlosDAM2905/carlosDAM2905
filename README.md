@@ -1,8 +1,8 @@
 ## 👋 ¡Hola! Soy Carlos
 
 ### 📚 Sobre mí
-Soy un profesional en constante aprendizaje con formación en **CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM)** y experiencia reciente en programación y desarrollo de aplicaciones.  
-Aunque mi experiencia más reciente está en la programación y el desarrollo de aplicaciones, mi trayectoria previa en sectores como logística y producción industrial me ha aportado competencias clave como la resolución de problemas, el trabajo en equipo y la adaptabilidad, así como experiencia trabajando bajo metodologías de mejora continua (World Class Manufacturing – Kaizen).
+Soy un profesional en constante aprendizaje con formación en **CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM)** y experiencia reciente en **programación** y **desarrollo de aplicaciones**.  
+Aunque mi experiencia más reciente está en la programación y el desarrollo de aplicaciones, mi trayectoria previa en sectores como **logística** y **producción industrial** me ha aportado competencias clave como la **resolución de problemas**, el **trabajo en equipo** y la **adaptabilidad**, así como experiencia trabajando bajo **metodologías de mejora continua** (World Class Manufacturing – **Kaizen**).
 
 Mi objetivo es convertirme en un profesional versátil capaz de crear soluciones innovadoras y funcionales para problemas reales.
 
