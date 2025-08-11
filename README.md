@@ -35,7 +35,7 @@ A continuación, algunos proyectos y ejercicios que reflejan mis habilidades y c
 ---
 
 ### 🛠️ Proyecto en desarrollo
-- 🏭 🚧 **Control de Almacén** 🚧 (En construcción, con el objetivo de rehacerlo con AWS para practicar servicios como S3, DynamoDB, Lambda y API Gateway)  
+- 🏭 🚧 [**Control de Almacén**](https://github.com/carlosDAM2905/control-almacen.git) 🚧 (En construcción, con el objetivo de rehacerlo con AWS para practicar servicios como S3, DynamoDB, Lambda y API Gateway)  
   Sistema para la gestión de productos, movimientos de inventario y empleados, desarrollado en **Java** + **MySQL** con **Hibernate** y patrón **DAO**.  
    *Objetivo al retomarlo:* implementar backend en la nube con **AWS** y ampliar funcionalidades.
 
