@@ -20,6 +20,9 @@ También estoy explorando tecnologías como **Spring Boot**, **Python** y **AWS*
 - **Frontend:** HTML, CSS  
 - **Otros:** Git, GitHub, patrones DAO y MVC
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosDAM2905&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Busco integrarme en un equipo de trabajo en el sector tecnológico, donde pueda aportar mis conocimientos, aprender de otros y contribuir a proyectos que generen un impacto positivo.
 
 
