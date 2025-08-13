@@ -58,8 +58,9 @@ A continuación, algunos proyectos y ejercicios que reflejan mis habilidades y c
 ---
 
 ### 📊Estadísticas de GitHub
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosDAM2905&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosDAM2905&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosDAM2905&layout=compact&theme=tokyonight)
+
 
 
 
