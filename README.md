@@ -20,8 +20,6 @@ También estoy explorando tecnologías como **Spring Boot**, **Python** y **AWS*
 - **Frontend:** HTML, CSS  
 - **Otros:** Git, GitHub, patrones DAO y MVC
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosDAM2905&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosDAM2905&layout=compact&theme=tokyonight)
 
 
 Busco integrarme en un equipo de trabajo en el sector tecnológico, donde pueda aportar mis conocimientos, aprender de otros y contribuir a proyectos que generen un impacto positivo.
@@ -54,6 +52,14 @@ A continuación, algunos proyectos y ejercicios que reflejan mis habilidades y c
 
 ### 🔗Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/carlos-gómez-sánchez-44166132a)
+
+
+---
+
+### 📊Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosDAM2905&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosDAM2905&layout=compact&theme=tokyonight)
+
 
 
   
