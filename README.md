@@ -51,7 +51,7 @@ A continuación, algunos proyectos y ejercicios que reflejan mis habilidades y c
 
 
 ### 🔗Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gómez-sánchez-44166132a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/carlos-gómez-sánchez-44166132a)
 
 
 ---
