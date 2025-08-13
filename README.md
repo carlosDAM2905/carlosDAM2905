@@ -24,7 +24,7 @@ También estoy explorando tecnologías como **Spring Boot**, **Python** y **AWS*
 
 Busco integrarme en un equipo de trabajo en el sector tecnológico, donde pueda aportar mis conocimientos, aprender de otros y contribuir a proyectos que generen un impacto positivo.
 
-
+---
 
 ### 🔍Proyectos y trabajos destacados
 A continuación, algunos proyectos y ejercicios que reflejan mis habilidades y conocimientos en diferentes áreas:
